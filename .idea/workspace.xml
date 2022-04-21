@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffc76fc2-6462-40db-a424-2f3794b7524f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="ffc76fc2-6462-40db-a424-2f3794b7524f" name="Changes" comment="something">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/util/Util.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,8 +144,23 @@
       <updated>1650436161691</updated>
       <workItem from="1650436163029" duration="1105000" />
       <workItem from="1650437470173" duration="299000" />
-      <workItem from="1650515993830" duration="4755000" />
+      <workItem from="1650515993830" duration="5325000" />
     </task>
+    <task id="LOCAL-00001" summary="something">
+      <created>1650522990803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650522990803</updated>
+    </task>
+    <task id="LOCAL-00002" summary="something">
+      <created>1650523150526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650523150526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,5 +176,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="something" />
+    <option name="LAST_COMMIT_MESSAGE" value="something" />
   </component>
 </project>
